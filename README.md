@@ -56,8 +56,11 @@ turtle-road-crossing/
 
 ```bash
 git clone https://github.com/Fayyaz6137/Road_Crossing_Game_Python.git
+
 cd road-crossing-game-python
+
 pip install -r requirements.txt
+
 python main.py
 ```
 
